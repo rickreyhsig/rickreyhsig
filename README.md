@@ -1,5 +1,3 @@
-rickreyhsig/README.md
-
 ## 👋 Hello, I'm Ricardo Kreyhsig
 
 I'm currently a **Senior Software Engineer** on the :dependabot: team at **GitHub**, where I'm passionate about building tools that empower developers to keep their code secure and up to date.
