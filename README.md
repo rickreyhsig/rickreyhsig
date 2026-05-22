@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ricardo Kreyhsig
 
-I'm currently a **Senior Software Engineer** on the :dependabot: team at **GitHub**, where I'm passionate about building tools that empower developers to keep their code secure and up to date.
+I'm currently a **Senior Software Engineer II** at **WealthBox**, where I'm passionate about building AI tools that allow financial planners to service their clients.
 
 ---
 
